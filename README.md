@@ -1,4 +1,4 @@
-### Food Ordering App:
+### Description
 *This is Mini Food Ordering App 'Food Fusion' (UI Level) aims to create a simple and intuitive
 user interface for customers to browse food items, add them to the cart, and
 place orders. This project targets the front-end development aspect of a food
